@@ -8,9 +8,9 @@
 프론트엔드 기술과 이를 효용적으로 융합하여 어떤 사람이든 쉽게 사용할 수 있는 웹프로그램을 개발하는 것이 저의 목표입니다.
 
 🌱 __Skill__
-  - Familiar : [![React.js Badge](http://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)]() [![Html5 Badge](http://img.shields.io/badge/-html-white?style=flat-square&logo=html5)]() [![Css Badge](http://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)]() [![Bootstrap Badge](http://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)]()
+  - Familiar : [![React.js Badge](http://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)]() [![Html5 Badge](http://img.shields.io/badge/-html-white?style=flat-square&logo=html5)]() [![Css Badge](http://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)]() [![Bootstrap Badge](http://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap)]()[![Vue.js Badge](http://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)]() [![styled-componentes Badge](http://img.shields.io/badge/-styledComponentes-white?style=flat-square&logo=styled-components)]()
 	
-  - Tried :  [![Vue.js Badge](http://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)]() [![styled-componentes Badge](http://img.shields.io/badge/-styledComponentes-white?style=flat-square&logo=styled-components)]() [![Vuetify Badge](http://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify)]()
+  - Tried :   [![Vuetify Badge](http://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify)]()
   - Language : [![Javascript Badge](http://img.shields.io/badge/-VanillaJS-white?style=flat-square&logo=javascript)]() [![java Badge](http://img.shields.io/badge/-Java-black?style=flat-square&logo=java)]() 
  
 __SHOW MORE__ >> https://www.notion.so/aboutlhj/Lee-Hyo-Jin-258e0df97e614c158ed48e527317fffe
